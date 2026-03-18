@@ -1,0 +1,807 @@
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+bnd: release tasks in execution graph = 0
+> Task :io.openems.wrapper:compileJava NO-SOURCE
+> Task :io.openems.wrapper:processResources NO-SOURCE
+> Task :io.openems.wrapper:classes UP-TO-DATE
+> Task :compileJava NO-SOURCE
+> Task :io.openems.common.bridge.http:processResources UP-TO-DATE
+> Task :io.openems.backend.oauthregistry:processResources UP-TO-DATE
+> Task :io.openems.backend.common:processResources UP-TO-DATE
+> Task :io.openems.shared.influxdb:processResources UP-TO-DATE
+> Task :io.openems.wrapper:jar UP-TO-DATE
+> Task :io.openems.edge.bridge.http:processResources UP-TO-DATE
+> Task :io.openems.edge.battery.api:processResources UP-TO-DATE
+> Task :io.openems.edge.batteryinverter.api:processResources UP-TO-DATE
+> Task :io.openems.edge.timeofusetariff.morocco.api:processResources UP-TO-DATE
+> Task :io.openems.edge.ess.api:processResources UP-TO-DATE
+> Task :io.openems.edge.meter.api:processResources UP-TO-DATE
+> Task :io.openems.edge.pvinverter.api:processResources UP-TO-DATE
+> Task :io.openems.edge.io.api:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.api:processResources UP-TO-DATE
+> Task :io.openems.edge.timedata.api:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.api.common:processResources UP-TO-DATE
+> Task :io.openems.edge.evse.api:processResources UP-TO-DATE
+> Task :io.openems.edge.common:processResources UP-TO-DATE
+> Task :io.openems.edge.timeofusetariff.api:processResources UP-TO-DATE
+> Task :io.openems.common:processResources UP-TO-DATE
+> Task :io.openems.edge.predictor.api:processResources UP-TO-DATE
+> Task :io.openems.edge.energy.api:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.ess.emergencycapacityreserve:processResources UP-TO-DATE
+> Task :io.openems.edge.ess.generic:processResources UP-TO-DATE
+> Task :io.openems.edge.bridge.modbus:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.ess.limiter14a:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.ess.limittotaldischarge:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.ess.ripplecontrolreceiver:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.ess.timeofusetariff:processResources UP-TO-DATE
+> Task :io.openems.edge.thermometer.api:processResources UP-TO-DATE
+> Task :io.openems.edge.evcs.api:processResources UP-TO-DATE
+> Task :io.openems.edge.scheduler.api:processResources UP-TO-DATE
+> Task :io.openems.edge.controller.api.backend:processResources UP-TO-DATE
+> Task :io.openems.edge.evcs.ocpp.common:processResources UP-TO-DATE
+> Task :io.openems.edge.evcs.ocpp.server:processResources UP-TO-DATE
+> Task :io.openems.edge.ess.core:processResources UP-TO-DATE
+> Task :io.openems.edge.bridge.mqtt:processResources UP-TO-DATE
+> Task :io.openems.edge.battery.fenecon.home:processResources UP-TO-DATE
+> Task :io.openems.edge.heat.api:processResources UP-TO-DATE
+> Task :io.openems.edge.bridge.mbus:processResources UP-TO-DATE
+> Task :io.openems.edge.predictor.persistencemodel:processResources UP-TO-DATE
+> Task :io.openems.edge.katek.edcom:processResources UP-TO-DATE
+> Task :io.openems.edge.weather.api:processResources UP-TO-DATE
+> Task :io.openems.edge.battery.bmw:processResources UP-TO-DATE
+> Task :io.openems.edge.batteryinverter.refu88k:processResources UP-TO-DATE
+> Task :io.openems.edge.goodwe:processResources UP-TO-DATE
+> Task :io.openems.edge.bridge.onewire:processResources UP-TO-DATE
+> Task :io.openems.edge.core:processResources UP-TO-DATE
+> Task :io.openems.common:compileJava
+> Task :io.openems.common:classes
+> Task :io.openems.common:jar
+> Task :io.openems.edge.application:compileJava
+
+> Task :io.openems.shared.influxdb:compileJava
+warning: unknown enum constant DeprecationLevel.ERROR
+  reason: class file for kotlin.DeprecationLevel not found
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+
+> Task :io.openems.edge.common:compileJava
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+> Task :io.openems.edge.common:classes
+
+> Task :io.openems.shared.influxdb:compileJava
+
+> Task :io.openems.shared.influxdb:classes
+27 warnings
+> Task :io.openems.shared.influxdb:jar
+> Task :io.openems.edge.common:jar
+> Task :io.openems.backend.common:compileJava
+> Task :io.openems.backend.common:classes
+> Task :io.openems.edge.battery.api:compileJava
+> Task :io.openems.edge.battery.api:classes
+> Task :io.openems.backend.common:jar
+> Task :io.openems.edge.battery.api:jar
+> Task :io.openems.common.bridge.http:compileJava
+> Task :io.openems.backend.application:compileJava
+> Task :io.openems.edge.ess.api:compileJava
+> Task :io.openems.backend.b2brest:compileJava
+> Task :io.openems.common.bridge.http:classes
+> Task :io.openems.backend.b2bwebsocket:compileJava
+> Task :io.openems.backend.alerting:compileJava
+> Task :io.openems.common.bridge.http:jar
+> Task :io.openems.backend.metadata.file:compileJava
+> Task :io.openems.backend.core:compileJava
+> Task :io.openems.backend.metadata.dummy:compileJava
+> Task :io.openems.backend.oauthregistry:compileJava
+> Task :io.openems.backend.oauthregistry:classes
+> Task :io.openems.backend.oauthregistry:jar
+> Task :io.openems.backend.metrics.prometheus:compileJava
+> Task :io.openems.backend.simulator:compileJava
+> Task :io.openems.backend.timedata.dummy:compileJava
+> Task :io.openems.backend.edgewebsocket:compileJava
+> Task :io.openems.backend.metadata.odoo:compileJava
+> Task :io.openems.backend.timedata.aggregatedinflux:compileJava
+> Task :io.openems.edge.bridge.http:compileJava
+> Task :io.openems.edge.bridge.http:classes
+> Task :io.openems.backend.uiwebsocket:compileJava
+> Task :io.openems.edge.ess.api:classes
+> Task :io.openems.backend.timedata.influx:compileJava
+> Task :io.openems.edge.bridge.http:jar
+> Task :io.openems.edge.timeofusetariff.morocco.api:compileJava
+> Task :io.openems.edge.timeofusetariff.morocco.api:classes
+> Task :io.openems.backend.timedata.timescaledb:compileJava
+> Task :io.openems.edge.ess.api:jar
+> Task :io.openems.edge.timeofusetariff.morocco.api:jar
+> Task :io.openems.edge.io.api:compileJava
+> Task :io.openems.edge.io.api:classes
+> Task :io.openems.edge.io.api:jar
+> Task :io.openems.edge.controller.api:compileJava
+> Task :io.openems.edge.controller.api:classes
+> Task :io.openems.edge.batteryinverter.api:compileJava
+> Task :io.openems.edge.batteryinverter.api:classes
+> Task :io.openems.edge.controller.api:jar
+> Task :io.openems.edge.batteryinverter.api:jar
+> Task :io.openems.edge.timedata.api:compileJava
+> Task :io.openems.edge.timedata.api:classes
+> Task :io.openems.edge.meter.api:compileJava
+> Task :io.openems.edge.meter.api:classes
+> Task :io.openems.edge.bridge.mbus:compileJava
+> Task :io.openems.edge.meter.api:jar
+> Task :io.openems.edge.timedata.api:jar
+> Task :io.openems.edge.pvinverter.api:compileJava
+> Task :io.openems.edge.pvinverter.api:classes
+> Task :io.openems.edge.pvinverter.api:jar
+> Task :io.openems.edge.bosch.bpts5hybrid:compileJava
+> Task :io.openems.edge.controller.api.common:compileJava
+> Task :io.openems.edge.controller.api.common:classes
+> Task :io.openems.edge.controller.api.common:jar
+> Task :io.openems.edge.bridge.mqtt:compileJava
+
+> Task :io.openems.edge.bridge.onewire:compileJava
+C:\Users\AnasBELKADI\openems\io.openems.edge.bridge.onewire\src\com\dalsemi\onewire\adapter\TMEXAdapter.java:250: warning: [removal] finalize() in Object has been deprecated and marked for removal
+	protected void finalize() {
+	               ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.bridge.onewire\src\com\dalsemi\onewire\adapter\USerialAdapter.java:256: warning: [removal] finalize() in Object has been deprecated and marked for removal
+	protected void finalize() {
+	               ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.bridge.onewire\src\com\dalsemi\onewire\application\file\OWFile.java:1189: warning: [removal] finalize() in Object has been deprecated and marked for removal
+	protected void finalize() throws IOException {
+	               ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.bridge.onewire\src\com\dalsemi\onewire\application\file\OWFileInputStream.java:371: warning: [removal] finalize() in Object has been deprecated and marked for removal
+	public void finalize() throws IOException {
+	            ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.bridge.onewire\src\com\dalsemi\onewire\application\file\OWFileOutputStream.java:431: warning: [removal] finalize() in Object has been deprecated and marked for removal
+	public void finalize() throws IOException {
+	            ^
+
+> Task :io.openems.edge.controller.api.backend:compileJava
+
+> Task :io.openems.edge.bridge.onewire:compileJava
+5 warnings
+
+> Task :io.openems.edge.controller.api.rest:compileJava
+> Task :io.openems.edge.controller.api.mqtt:compileJava
+> Task :io.openems.edge.bridge.modbus:compileJava
+> Task :io.openems.edge.bridge.modbus:classes
+> Task :io.openems.edge.controller.asymmetric.balancingcosphi:compileJava
+> Task :io.openems.edge.controller.asymmetric.fixreactivepower:compileJava
+> Task :io.openems.edge.controller.api.websocket:compileJava
+> Task :io.openems.edge.controller.asymmetric.peakshaving:compileJava
+> Task :io.openems.edge.controller.asymmetric.phaserectification:compileJava
+> Task :io.openems.edge.controller.channelthreshold:compileJava
+> Task :io.openems.edge.controller.chp.soc:compileJava
+> Task :io.openems.edge.evse.api:compileJava
+> Task :io.openems.edge.evse.api:classes
+> Task :io.openems.edge.bridge.modbus:jar
+> Task :io.openems.edge.evse.api:jar
+> Task :io.openems.edge.battery.bmw:compileJava
+> Task :io.openems.edge.predictor.api:compileJava
+
+> Task :io.openems.edge.timeofusetariff.api:compileJava
+warning: unknown enum constant DeprecationLevel.ERROR
+  reason: class file for kotlin.DeprecationLevel not found
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.WARNING
+warning: unknown enum constant DeprecationLevel.WARNING
+warning: unknown enum constant DeprecationLevel.WARNING
+warning: unknown enum constant DeprecationLevel.WARNING
+67 warnings
+
+> Task :io.openems.edge.battery.bydcommercial:compileJava
+> Task :io.openems.edge.battery.fenecon.commercial:compileJava
+> Task :io.openems.edge.battery.fenecon.home:compileJava
+> Task :io.openems.edge.battery.pylontech:compileJava
+> Task :io.openems.edge.batteryinverter.kaco.blueplanetgridsave:compileJava
+> Task :io.openems.edge.batteryinverter.refu88k:compileJava
+> Task :io.openems.edge.predictor.api:classes
+> Task :io.openems.edge.predictor.api:jar
+> Task :io.openems.edge.timeofusetariff.api:classes
+> Task :io.openems.edge.timeofusetariff.api:jar
+> Task :io.openems.edge.controller.api.modbus:compileJava
+> Task :io.openems.edge.battery.soltaro:compileJava
+> Task :io.openems.edge.controller.ess.limiter14a:compileJava
+> Task :io.openems.edge.controller.ess.limiter14a:classes
+> Task :io.openems.edge.controller.ess.limiter14a:jar
+> Task :io.openems.edge.batteryinverter.sinexcel:compileJava
+> Task :io.openems.edge.ess.generic:compileJava
+> Task :io.openems.edge.ess.generic:classes
+> Task :io.openems.edge.controller.debug.detailedlog:compileJava
+
+> Task :io.openems.edge.energy.api:compileJava
+
+> Task :io.openems.edge.energy.api:classes
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+> Task :io.openems.edge.controller.debug.log:compileJava
+> Task :io.openems.edge.ess.generic:jar
+> Task :io.openems.edge.controller.ess.acisland:compileJava
+> Task :io.openems.edge.energy.api:jar
+> Task :io.openems.edge.controller.ess.balancing:compileJava
+> Task :io.openems.edge.controller.ess.activepowervoltagecharacteristic:compileJava
+> Task :io.openems.edge.controller.ess.emergencycapacityreserve:compileJava
+> Task :io.openems.edge.controller.ess.emergencycapacityreserve:classes
+> Task :io.openems.edge.controller.ess.limittotaldischarge:compileJava
+> Task :io.openems.edge.controller.ess.limittotaldischarge:classes
+> Task :io.openems.edge.controller.ess.delaycharge:compileJava
+> Task :io.openems.edge.controller.ess.cycle:compileJava
+> Task :io.openems.edge.controller.ess.limittotaldischarge:jar
+> Task :io.openems.edge.controller.ess.emergencycapacityreserve:jar
+> Task :io.openems.edge.controller.ess.delayedselltogrid:compileJava
+> Task :io.openems.edge.controller.ess.fixactivepower:compileJava
+> Task :io.openems.edge.controller.ess.fastfrequencyreserve:compileJava
+> Task :io.openems.edge.controller.ess.fixstateofcharge:compileJava
+> Task :io.openems.edge.controller.ess.ripplecontrolreceiver:compileJava
+> Task :io.openems.edge.controller.ess.ripplecontrolreceiver:classes
+> Task :io.openems.edge.controller.ess.ripplecontrolreceiver:jar
+> Task :io.openems.edge.controller.ess.hybrid.surplusfeedtogrid:compileJava
+> Task :io.openems.edge.controller.ess.linearpowerband:compileJava
+
+> Task :io.openems.edge.controller.ess.timeofusetariff:compileJava
+C:\Users\AnasBELKADI\openems\io.openems.edge.controller.ess.timeofusetariff\src\io\openems\edge\controller\ess\timeofusetariff\TimeOfUseTariffControllerImpl.java:43: warning: [deprecation] EnergyScheduleHandlerV1 in io.openems.edge.controller.ess.timeofusetariff.v1 has been deprecated
+import io.openems.edge.controller.ess.timeofusetariff.v1.EnergyScheduleHandlerV1.ContextV1;
+                                                        ^
+1 warning
+
+> Task :io.openems.edge.controller.ess.timeofusetariff:classes
+> Task :io.openems.edge.controller.ess.mindischargeperiod:compileJava
+> Task :io.openems.edge.controller.ess.timeofusetariff:jar
+> Task :io.openems.edge.controller.ess.reactivepowervoltagecharacteristic:compileJava
+> Task :io.openems.edge.controller.ess.selltogridlimit:compileJava
+
+> Task :io.openems.edge.controller.ess.gridoptimizedcharge:compileJava
+C:\Users\AnasBELKADI\openems\io.openems.edge.controller.ess.gridoptimizedcharge\src\io\openems\edge\controller\ess\gridoptimizedcharge\ControllerEssGridOptimizedChargeImpl.java:157: warning: [deprecation] maximumSellToGridPower() in Config has been deprecated
+		if (config.maximumSellToGridPower() != -1) {
+		          ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.controller.ess.gridoptimizedcharge\src\io\openems\edge\controller\ess\gridoptimizedcharge\ControllerEssGridOptimizedChargeImpl.java:158: warning: [deprecation] maximumSellToGridPower() in Config has been deprecated
+			this.migrateFeedPowerParaConfigValue(config.maximumSellToGridPower(), config.sellToGridLimitEnabled());
+			                                           ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.controller.ess.gridoptimizedcharge\src\io\openems\edge\controller\ess\gridoptimizedcharge\ControllerEssGridOptimizedChargeImpl.java:158: warning: [deprecation] sellToGridLimitEnabled() in Config has been deprecated
+			this.migrateFeedPowerParaConfigValue(config.maximumSellToGridPower(), config.sellToGridLimitEnabled());
+			                                                                            ^
+3 warnings
+
+> Task :io.openems.edge.controller.cleverpv:compileJava
+> Task :io.openems.edge.controller.ess.standby:compileJava
+> Task :io.openems.edge.evcs.api:compileJava
+> Task :io.openems.edge.evcs.api:classes
+> Task :io.openems.edge.controller.generic.jsonlogic:compileJava
+> Task :io.openems.edge.evcs.api:jar
+> Task :io.openems.edge.controller.io.alarm:compileJava
+> Task :io.openems.edge.controller.highloadtimeslot:compileJava
+> Task :io.openems.edge.controller.evcs.fixactivepower:compileJava
+> Task :io.openems.edge.controller.evcs:compileJava
+> Task :io.openems.edge.controller.evse:compileJava
+> Task :io.openems.edge.controller.io.analog:compileJava
+> Task :io.openems.edge.thermometer.api:compileJava
+> Task :io.openems.edge.thermometer.api:classes
+> Task :io.openems.edge.controller.io.fixdigitaloutput:compileJava
+> Task :io.openems.edge.controller.io.channelsinglethreshold:compileJava
+> Task :io.openems.edge.thermometer.api:jar
+> Task :io.openems.edge.controller.pvinverter.fixpowerlimit:compileJava
+> Task :io.openems.edge.controller.io.heatpump.sgready:compileJava
+> Task :io.openems.edge.controller.io.heatingelement:compileJava
+> Task :io.openems.edge.controller.io.heating.room:compileJava
+> Task :io.openems.edge.controller.pvinverter.selltogridlimit:compileJava
+> Task :io.openems.edge.controller.symmetric.balancingschedule:compileJava
+> Task :io.openems.edge.controller.symmetric.fixreactivepower:compileJava
+> Task :io.openems.edge.controller.symmetric.limitactivepower:compileJava
+> Task :io.openems.edge.controller.api.backend:classes
+> Task :io.openems.edge.controller.symmetric.peakshaving:compileJava
+> Task :io.openems.edge.controller.symmetric.randompower:compileJava
+> Task :io.openems.edge.controller.api.backend:jar
+> Task :io.openems.edge.controller.symmetric.timeslotpeakshaving:compileJava
+> Task :io.openems.edge.scheduler.api:compileJava
+> Task :io.openems.edge.scheduler.api:classes
+> Task :io.openems.edge.ess.adstec.storaxe:compileJava
+> Task :io.openems.edge.scheduler.api:jar
+> Task :io.openems.edge.ess.cluster:compileJava
+> Task :io.openems.edge.edge2edge:compileJava
+> Task :io.openems.edge.ess.core:compileJava
+> Task :io.openems.edge.ess.samsung:compileJava
+
+> Task :io.openems.edge.energy:compileJava
+C:\Users\AnasBELKADI\openems\io.openems.edge.energy\src\io\openems\edge\energy\v1\optimizer\UtilsV1.java:10: warning: [deprecation] UtilsV1 in io.openems.edge.controller.ess.timeofusetariff.v1 has been deprecated
+import static io.openems.edge.controller.ess.timeofusetariff.v1.UtilsV1.calculateLimitChargePowerFor14aEnWG;
+                                                               ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.energy\src\io\openems\edge\energy\v1\optimizer\UtilsV1.java:11: warning: [deprecation] UtilsV1 in io.openems.edge.controller.ess.timeofusetariff.v1 has been deprecated
+import static io.openems.edge.controller.ess.timeofusetariff.v1.UtilsV1.getEssMinSocPercentage;
+                                                               ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.energy\src\io\openems\edge\energy\v1\optimizer\UtilsV1.java:42: warning: [deprecation] EnergyScheduleHandlerV1 in io.openems.edge.controller.ess.timeofusetariff.v1 has been deprecated
+import io.openems.edge.controller.ess.timeofusetariff.v1.EnergyScheduleHandlerV1.ContextV1;
+                                                        ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.energy\src\io\openems\edge\energy\v1\jsonrpc\GetScheduleResponse.java:13: warning: [deprecation] ScheduleDatas in io.openems.edge.energy.v1.optimizer has been deprecated
+import io.openems.edge.energy.v1.optimizer.ScheduleDatas.ScheduleData;
+                                          ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.energy\src\io\openems\edge\energy\v1\optimizer\EnergyFlowV1.java:8: warning: [deprecation] ParamsV1 in io.openems.edge.energy.v1.optimizer has been deprecated
+import io.openems.edge.energy.v1.optimizer.ParamsV1.OptimizePeriod;
+                                          ^
+5 warnings
+
+> Task :io.openems.edge.ess.fenecon.commercial40:compileJava
+> Task :io.openems.edge.ess.core:classes
+> Task :io.openems.edge.evcs.abl:compileJava
+> Task :io.openems.edge.ess.core:jar
+> Task :io.openems.edge.evcs.cluster:compileJava
+> Task :io.openems.edge.evcs.core:compileJava
+> Task :io.openems.edge.evcs.goe:compileJava
+> Task :io.openems.edge.evcs.goe.chargerhome:compileJava
+> Task :io.openems.edge.evcs.heidelberg:compileJava
+> Task :io.openems.edge.bridge.mqtt:classes
+> Task :io.openems.edge.evcs.mennekes:compileJava
+> Task :io.openems.edge.evcs.ocpp.common:compileJava
+> Task :io.openems.edge.evcs.ocpp.common:classes
+> Task :io.openems.edge.evcs.ocpp.common:jar
+> Task :io.openems.edge.bridge.mqtt:jar
+> Task :io.openems.edge.evcs.spelsberg:compileJava
+> Task :io.openems.edge.evcs.openwb:compileJava
+> Task :io.openems.edge.evcs.ocpp.server:compileJava
+> Task :io.openems.edge.evcs.ocpp.server:classes
+> Task :io.openems.edge.evcs.ocpp.server:jar
+
+> Task :io.openems.edge.core:compileJava
+warning: unknown enum constant DeprecationLevel.ERROR
+  reason: class file for kotlin.DeprecationLevel not found
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+
+> Task :io.openems.edge.evcs.webasto.next:compileJava
+> Task :io.openems.edge.evcs.webasto.unite:compileJava
+> Task :io.openems.edge.evcs.ocpp.abl:compileJava
+> Task :io.openems.edge.evcs.ocpp.ies.keywatt.singleccs:compileJava
+> Task :io.openems.edge.evse.chargepoint.alpitronic:compileJava
+> Task :io.openems.edge.evse.chargepoint.hardybarth:compileJava
+> Task :io.openems.edge.evse.chargepoint.heidelberg:compileJava
+> Task :io.openems.edge.evse.electricvehicle.generic:compileJava
+> Task :io.openems.edge.fenecon.dess:compileJava
+> Task :io.openems.edge.evse.chargepoint.keba:compileJava
+> Task :io.openems.edge.fenecon.mini:compileJava
+> Task :io.openems.edge.battery.fenecon.home:classes
+> Task :io.openems.edge.fronius:compileJava
+> Task :io.openems.edge.fenecon.pro:compileJava
+> Task :io.openems.edge.battery.fenecon.home:jar
+> Task :io.openems.edge.heat.api:compileJava
+> Task :io.openems.edge.heat.api:classes
+> Task :io.openems.edge.io.filipowski:compileJava
+> Task :io.openems.edge.heat.api:jar
+> Task :io.openems.edge.heat.askoma:compileJava
+> Task :io.openems.edge.io.gpio:compileJava
+> Task :io.openems.edge.io.kmtronic:compileJava
+> Task :io.openems.edge.heat.mypv:compileJava
+> Task :io.openems.edge.io.offgridswitch:compileJava
+> Task :io.openems.edge.io.revpi:compileJava
+> Task :io.openems.edge.io.siemenslogo:compileJava
+> Task :io.openems.edge.io.wago:compileJava
+> Task :io.openems.edge.io.shelly:compileJava
+
+> Task :io.openems.edge.goodwe:compileJava
+C:\Users\AnasBELKADI\openems\io.openems.edge.goodwe\src\io\openems\edge\goodwe\batteryinverter\GoodWeBatteryInverterImpl.java:370: warning: [deprecation] feedPowerPara() in Config has been deprecated
+		if (config.feedPowerPara() != -1) {
+		          ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.goodwe\src\io\openems\edge\goodwe\batteryinverter\GoodWeBatteryInverterImpl.java:373: warning: [deprecation] feedPowerEnable() in Config has been deprecated
+			this.migrateFeedPowerParaConfigValue(config.feedPowerPara(), config.feedPowerEnable().booleanValue);
+			                                                                   ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.goodwe\src\io\openems\edge\goodwe\batteryinverter\GoodWeBatteryInverterImpl.java:373: warning: [deprecation] feedPowerPara() in Config has been deprecated
+			this.migrateFeedPowerParaConfigValue(config.feedPowerPara(), config.feedPowerEnable().booleanValue);
+			                                           ^
+3 warnings
+
+> Task :io.openems.edge.io.weidmueller:compileJava
+> Task :io.openems.edge.bridge.mbus:classes
+> Task :io.openems.edge.bridge.mbus:jar
+
+> Task :io.openems.edge.core:compileJava
+C:\Users\AnasBELKADI\openems\io.openems.edge.core\src\io\openems\edge\app\integratedsystem\FeneconHomeComponents.java:165: warning: [deprecation] DYNAMIC_AND_EXTERNAL_LIMITATION in ExternalLimitationType has been deprecated
+										|| feedInType == ExternalLimitationType.DYNAMIC_AND_EXTERNAL_LIMITATION
+										                                       ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.core\src\io\openems\edge\app\integratedsystem\IntegratedSystemProps.java:81: warning: [deprecation] DYNAMIC_AND_EXTERNAL_LIMITATION in ExternalLimitationType has been deprecated
+							new ExternalLimitationType[] { ExternalLimitationType.DYNAMIC_AND_EXTERNAL_LIMITATION,
+							                                                     ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.core\src\io\openems\edge\app\integratedsystem\IntegratedSystemProps.java:82: warning: [deprecation] DYNAMIC_LIMITATION in ExternalLimitationType has been deprecated
+									ExternalLimitationType.DYNAMIC_LIMITATION });
+									                      ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.core\src\io\openems\edge\app\integratedsystem\IntegratedSystemProps.java:138: warning: [deprecation] DYNAMIC_LIMITATION in ExternalLimitationType has been deprecated
+								.array(Exp.staticValue(ExternalLimitationType.DYNAMIC_LIMITATION),
+								                                             ^
+C:\Users\AnasBELKADI\openems\io.openems.edge.core\src\io\openems\edge\app\integratedsystem\IntegratedSystemProps.java:139: warning: [deprecation] DYNAMIC_AND_EXTERNAL_LIMITATION in ExternalLimitationType has been deprecated
+										Exp.staticValue(ExternalLimitationType.DYNAMIC_AND_EXTERNAL_LIMITATION))
+										                                      ^
+
+> Task :io.openems.edge.meter.abb:compileJava
+> Task :io.openems.edge.katek.edcom:compileJava
+> Task :io.openems.edge.katek.edcom:classes
+> Task :io.openems.edge.meter.artemes.am2:compileJava
+> Task :io.openems.edge.kostal:compileJava
+> Task :io.openems.edge.katek.edcom:jar
+> Task :io.openems.edge.meter.bcontrol.em300:compileJava
+> Task :io.openems.edge.meter.bgetech:compileJava
+> Task :io.openems.edge.meter.camillebauer.aplus:compileJava
+> Task :io.openems.edge.meter.carlo.gavazzi:compileJava
+> Task :io.openems.edge.kaco.blueplanet.hybrid10:compileJava
+> Task :io.openems.edge.meter.cluster:compileJava FAILED
+> Task :io.openems.edge.meter.discovergy:compileJava
+> Task :io.openems.edge.meter.eastron:compileJava
+
+> Task :io.openems.edge.core:compileJava
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.ERROR
+warning: unknown enum constant DeprecationLevel.WARNING
+warning: unknown enum constant DeprecationLevel.WARNING
+warning: unknown enum constant DeprecationLevel.WARNING
+warning: unknown enum constant DeprecationLevel.WARNING
+72 warnings
+
+
+[Incubating] Problems report is available at: file:///C:/Users/AnasBELKADI/openems/build/reports/problems/problems-report.html
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':io.openems.edge.meter.cluster:compileJava'.
+> Unable to delete directory 'C:\Users\AnasBELKADI\openems\io.openems.edge.meter.cluster\bin'
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+256 actionable tasks: 208 executed, 48 up-to-date
+> Run with --info or --debug option to get more log output.
+> Run with --scan to generate a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 1m 8s

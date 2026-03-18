@@ -1,0 +1,3 @@
+= io.openems.edge.testcomponent.api
+
+https://github.com/OpenEMS/openems/tree/develop/io.openems.edge.testcomponent.api[Source Code icon:github[]]

@@ -1,0 +1,20 @@
+Bundle-Name: OpenEMS Edge io.openems.edge.meter.socomec.digiware
+Bundle-Vendor: OpenEMS Association e.V.
+Bundle-License: https://opensource.org/licenses/EPL-2.0
+Bundle-Version: 1.0.0.${tstamp}
+
+-buildpath: \
+	${buildpath},\
+	io.openems.j2mod,\
+	io.openems.common,\
+	io.openems.edge.bridge.modbus,\
+	io.openems.edge.common,\
+	io.openems.edge.co2e.scope2;version=snapshot,\
+	io.openems.edge.timeofusetariff.morocco.api;version=snapshot,\
+	io.openems.edge.meter.api;version=snapshot
+
+-testpath: \
+	${testpath},\
+	io.openems.common,\
+	io.openems.edge.bridge.modbus,\
+	io.openems.edge.controller.evse

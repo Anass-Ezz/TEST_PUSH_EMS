@@ -1,0 +1,3 @@
+= io.openems.edge.co2e.scope2
+
+https://github.com/OpenEMS/openems/tree/develop/io.openems.edge.co2e.scope2[Source Code icon:github[]]
